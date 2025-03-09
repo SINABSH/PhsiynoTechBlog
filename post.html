@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Tech Blog</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>My Tech Blog</h1>
+        <nav>
+            <a href="index.html">Home</a>
+            <a href="#">Blog</a>
+            <a href="#">Forum</a>
+            <a href="#">About</a>
+        </nav>
+    </header>
+
+    <main>
+        <section id="latest-posts">
+            <h2>Latest Posts</h2>
+            <article>
+                <h3>Sample Blog Post</h3>
+                <p>This is a placeholder for your first blog post.</p>
+                <a href="#">Read more</a>
+            </article>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 My Tech Blog</p>
+    </footer>
+</body>
+</html>
