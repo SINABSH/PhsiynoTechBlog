@@ -1,21 +1,21 @@
-article {
-    background: white;
-    padding: 15px;
-    margin: 10px 0;
+article img {
+    max-width: 100%;
+    height: auto;
     border-radius: 5px;
-    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
 }
 
-article h3 {
-    margin: 0;
+article p {
+    line-height: 1.6;
 }
 
 article a {
-    text-decoration: none;
+    display: inline-block;
+    margin-top: 15px;
     color: #007bff;
+    text-decoration: none;
 }
 
 article a:hover {
     text-decoration: underline;
-    
 }
